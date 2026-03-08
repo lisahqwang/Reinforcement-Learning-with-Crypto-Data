@@ -1,1 +1,1 @@
-# columbia-rlcourse-project
+# Reinforcement Learning - LOB data
